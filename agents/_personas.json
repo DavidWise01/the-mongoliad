@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "the-shield-brethren",
+    "name": "The Shield-Brethren",
+    "epithet": "The Ordo Militum Vindicis Intactae — the order of warrior-mo",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Shield-Brethren:MGL:349761⟧"
+  },
+  {
+    "slug": "subutai",
+    "name": "Subutai",
+    "epithet": "The historical Mongol general — and the namesake of the Subu",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Subutai:MGL:b04e1a⟧"
+  },
+  {
+    "slug": "father-rodrigo-bendrito",
+    "name": "Father Rodrigo Bendrito",
+    "epithet": "A traumatized priest carrying a prophetic message toward Rom",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Father Rodrigo Bendrito:MGL:df2e47⟧"
+  },
+  {
+    "slug": "ferenc",
+    "name": "Ferenc",
+    "epithet": "A young hunter guiding and protecting companions through war",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Ferenc:MGL:e31d55⟧"
+  },
+  {
+    "slug": "ocyrhoe",
+    "name": "Ocyrhoe",
+    "epithet": "An orphan girl navigating the intrigue of Rome.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Ocyrhoe:MGL:0adeba⟧"
+  },
+  {
+    "slug": "raphael",
+    "name": "Raphael",
+    "epithet": "A Shield-Brethren healer-knight.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Raphael:MGL:76c890⟧"
+  },
+  {
+    "slug": "yasper",
+    "name": "Yasper",
+    "epithet": "An alchemist among the questing band.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Yasper:MGL:28b3ce⟧"
+  },
+  {
+    "slug": "the-subutai-pulp-platform",
+    "name": "The Subutai PULP Platform",
+    "epithet": "The custom app and serialization engine — the saga's real-wo",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Subutai PULP Platform:MGL:7306c0⟧"
+  }
+]
